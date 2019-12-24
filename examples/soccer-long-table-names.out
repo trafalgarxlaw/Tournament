@@ -1,0 +1,22 @@
+ID  Player    Day 1     Day 2     Day 3     Day 4     Day 5     Day 6     Day 7     Day 8     Day 9     Day 10    Day 11    Day 12    Day 13    Day 14    Day 15    Day 16    Day 17    Day 18    Day 19  
+--  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------  --------
+ 1  Allemagn  Suede     Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  
+ 2  Angleter  Slovaqui  Allemagn  Suede     Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    
+ 3  Bulgarie  Russie    Slovaqui  Allemagn  Angleter  Suede     Croatie   Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  
+ 4  Croatie   Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Suede     Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  
+ 5  Danemark  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Suede     Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  
+ 6  Ecosse    Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Suede     Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  
+ 7  Espagne   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Suede     France    Grece     Irlande   Italie    Lettonie  Norvege   
+ 8  France    Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   Suede     Grece     Irlande   Italie    Lettonie  
+ 9  Grece     Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    Suede     Irlande   Italie    
+10  Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    Grece     Suede     
+11  Italie    Irlande   Suede     Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    Grece     
+12  Lettonie  Grece     Irlande   Italie    Suede     Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    
+13  Norvege   France    Grece     Irlande   Italie    Lettonie  Suede     Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   
+14  Pays-Bas  Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Suede     Portugal  Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  Ecosse    
+15  Portugal  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Suede     Tchequie  Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   Danemark  
+16  Tchequie  Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Suede     Roumanie  Russie    Slovaqui  Allemagn  Angleter  Bulgarie  Croatie   
+17  Roumanie  Croatie   Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Suede     Russie    Slovaqui  Allemagn  Angleter  Bulgarie  
+18  Russie    Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Suede     Slovaqui  Allemagn  Angleter  
+19  Slovaqui  Angleter  Bulgarie  Croatie   Danemark  Ecosse    Espagne   France    Grece     Irlande   Italie    Lettonie  Norvege   Pays-Bas  Portugal  Tchequie  Roumanie  Russie    Suede     Allemagn  
+20  Suede     Allemagn  Italie    Angleter  Lettonie  Bulgarie  Norvege   Croatie   Pays-Bas  Danemark  Portugal  Ecosse    Tchequie  Espagne   Roumanie  France    Russie    Grece     Slovaqui  Irlande   
